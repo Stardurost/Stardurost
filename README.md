@@ -1,5 +1,5 @@
 ![wall_page-0001](https://user-images.githubusercontent.com/88589361/234532650-d3c6e04f-a881-41e7-87e7-3cfb81f4a42c.jpg)
-## PROGRAMMING LANGUAGES AND FRAMEWORKS:
+## PROGRAMMING LANGUAGES AND FRAMEWORKS
 <div align=center>
   <a href = "https://github.com/Stardurost/SpringPracticeProjects">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"></a>
@@ -34,14 +34,6 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40">
 </div>
 
-## FRAMEWORKS
-<div align=center>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="40">
-  <img src="" height="40">
-  <img src="" height="40">
-</div>
-
 ## IDEs / PROGRAMs
 <div align=center>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="40">
@@ -49,23 +41,33 @@
   <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" height="40">
 </div>
 
+## BIO
+- окончила СПбГУТ фак. Колледж Телекоммуникаций. Специальность: Программирование в компьютерных системах 09.02.03
+- работала в IT компании с декабря 2021 по сентябрь 2022 1С программистом
+- закончила несколько курсов, тренингов и сдала с отличием экзамен по стандартам WorldSkills
+- окончила школу с отличием
+<div>
+  <img src="https://user-images.githubusercontent.com/88589361/234566200-21f95fab-c50c-433c-b446-334ae38d117c.png" width="460">
+  <img src="https://user-images.githubusercontent.com/88589361/234567481-17e691fa-5f31-47c7-b1c3-f68a118c729c.jpg" width="460">
+  
+  <img src="https://user-images.githubusercontent.com/88589361/234551830-0a7e1bde-eb24-413d-9b5a-6da10973f7fb.png" width="460">
+  <img src="https://user-images.githubusercontent.com/88589361/234551985-3a97c290-898f-43aa-baf2-ac47ac88e790.png" width="460">
+  
+  <img src="https://user-images.githubusercontent.com/88589361/234569558-ea6a7342-4e4e-4fd0-8d6e-4e43210bdbea.png" width="228">
+  <img src="https://user-images.githubusercontent.com/88589361/234551497-bd319ceb-2762-40aa-b93e-a5127dfc569d.png" width="228">
+  
+  <img src="https://user-images.githubusercontent.com/88589361/234551605-5108b184-cb1c-47c5-90dd-6bc0ce23fc34.png" width="228">
+  <img src="https://user-images.githubusercontent.com/88589361/234553333-baaa75ec-70a5-4912-8111-6706022196b5.png" width="228">
+  
+
+  
+</div>
+
 ## CONTACTS
 <div align=center>
   <a href = "https://t.me/stardurost"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40"></a>
-  <a href = "mailme:stardurost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
+  <a href = "mailto:stardurost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
 </div>
 
-<!--
-**Stardurost/Stardurost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
