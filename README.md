@@ -47,17 +47,17 @@
 - закончила несколько курсов, тренингов и сдала с отличием экзамен по стандартам WorldSkills
 - окончила школу с отличием
 <div>
-  <img src="https://user-images.githubusercontent.com/88589361/234566200-21f95fab-c50c-433c-b446-334ae38d117c.png" width="460">
-  <img src="https://user-images.githubusercontent.com/88589361/234567481-17e691fa-5f31-47c7-b1c3-f68a118c729c.jpg" width="460">
+  <img src="https://user-images.githubusercontent.com/88589361/234566200-21f95fab-c50c-433c-b446-334ae38d117c.png" width="400">
+  <img src="https://user-images.githubusercontent.com/88589361/234567481-17e691fa-5f31-47c7-b1c3-f68a118c729c.jpg" width="400">
   
-  <img src="https://user-images.githubusercontent.com/88589361/234551830-0a7e1bde-eb24-413d-9b5a-6da10973f7fb.png" width="460">
-  <img src="https://user-images.githubusercontent.com/88589361/234551985-3a97c290-898f-43aa-baf2-ac47ac88e790.png" width="460">
+  <img src="https://user-images.githubusercontent.com/88589361/234551830-0a7e1bde-eb24-413d-9b5a-6da10973f7fb.png" width="400">
+  <img src="https://user-images.githubusercontent.com/88589361/234551985-3a97c290-898f-43aa-baf2-ac47ac88e790.png" width="400">
   
-  <img src="https://user-images.githubusercontent.com/88589361/234569558-ea6a7342-4e4e-4fd0-8d6e-4e43210bdbea.png" width="228">
-  <img src="https://user-images.githubusercontent.com/88589361/234551497-bd319ceb-2762-40aa-b93e-a5127dfc569d.png" width="228">
+  <img src="https://user-images.githubusercontent.com/88589361/234569558-ea6a7342-4e4e-4fd0-8d6e-4e43210bdbea.png" width="200">
+  <img src="https://user-images.githubusercontent.com/88589361/234551497-bd319ceb-2762-40aa-b93e-a5127dfc569d.png" width="200">
   
-  <img src="https://user-images.githubusercontent.com/88589361/234551605-5108b184-cb1c-47c5-90dd-6bc0ce23fc34.png" width="228">
-  <img src="https://user-images.githubusercontent.com/88589361/234553333-baaa75ec-70a5-4912-8111-6706022196b5.png" width="228">
+  <img src="https://user-images.githubusercontent.com/88589361/234551605-5108b184-cb1c-47c5-90dd-6bc0ce23fc34.png" width="200">
+  <img src="https://user-images.githubusercontent.com/88589361/234553333-baaa75ec-70a5-4912-8111-6706022196b5.png" width="200">
   
 
   
