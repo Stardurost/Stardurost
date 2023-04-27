@@ -1,4 +1,4 @@
-![wall_page-0001](https://user-images.githubusercontent.com/88589361/234532650-d3c6e04f-a881-41e7-87e7-3cfb81f4a42c.jpg)
+![image](https://user-images.githubusercontent.com/88589361/234861071-92dc63ab-ad8b-4883-bcd8-0ab312fb5b75.png)
 ## PROGRAMMING LANGUAGES AND FRAMEWORKS
 <div align=center>
   <a href = "https://github.com/Stardurost/SpringPracticeProjects">
